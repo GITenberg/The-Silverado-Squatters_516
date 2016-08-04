@@ -1,0 +1,39 @@
+_repo: The-Silverado-Squatters_516
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Strong, J. D. (Joseph Dwight)
+    aliases:
+    - Strong, Joseph Dwight
+    - Strong, Joseph D. (Joseph Dwight)
+    birthdate: 1853
+    deathdate: 1899
+    gutenberg_agent_id: '42273'
+    url: http://www.gutenberg.org/2009/agents/42273
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Calistoga (Calif.) -- Description and travel'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Travel -- California'
+- !lcc 'F850.5'
+- !lcsh 'Napa Valley (Calif.) -- Description and travel'
+- GITenberg
+title: The Silverado Squatters
+url: http://www.gutenberg.org/ebooks/516
