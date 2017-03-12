@@ -1,5 +1,5 @@
 _repo: The-Silverado-Squatters_516
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Strong, J. D. (Joseph Dwight)
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1899
     gutenberg_agent_id: '42273'
     url: http://www.gutenberg.org/2009/agents/42273
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/516#The-Silverado-Squatters
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
 identifiers:
